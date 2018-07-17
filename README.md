@@ -1,0 +1,2 @@
+# mixi-func
+Functionnal mixins
